@@ -14,7 +14,7 @@ npx resume-srinjoyghosh75
 
 📂 Project Structure
 
-resume-srinjoyghosh75/
+resume/
 │
 ├── package.json   # npm package config (with bin entry for CLI)
 ├── index.js       # CLI script that prints resume.json in terminal
