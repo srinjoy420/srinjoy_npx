@@ -80,7 +80,7 @@ Education:
 =======================================
 
 
-git clone https://github.com/srinjoy420/resume-npm.git
+git clone https://github.com/srinjoy420/srinjoy_npx.git
 cd resume-npm
 
 # Install dependencies (none required)
