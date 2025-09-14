@@ -1,0 +1,20 @@
+{
+  "name": "resume-srinjoyghosh75",
+  "version": "1.0.2",
+  "description": "My resume — installable and runnable via npx",
+  "bin": {
+    "resume-srinjoyghosh75": "index.js",
+    "srinjoy-resume": "index.js"
+  },
+  "files": [
+    "resume.json",
+    "index.js"
+  ],
+  "keywords": ["resume", "cv", "portfolio"],
+  "author": "Srinjoy Ghosh <ghoshsrinjoy2@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srinjoy420/resume-npm.git"
+  }
+}

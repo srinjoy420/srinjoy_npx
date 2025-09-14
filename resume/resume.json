@@ -1,0 +1,67 @@
+{
+  "name": "Srinjoy Ghosh",
+  "title": "Full Stack Developer",
+  "contact": {
+    "phone": "+91 8670112436",
+    "email": "ghoshsrinjoy2@gmail.com",
+    "github": "https://github.com/srinjoy420",
+    "linkedin": "https://www.linkedin.com/in/srinjoy-ghosh-b38608222/"
+  },
+  "projects": [
+    {
+      "name": "LeetLab – Online DSA Practice Platform",
+      "source_code": "https://github.com/srinjoy420/leetlab",
+      "tech_stack": [
+        "Node.js",
+        "Express.js",
+        "PostgreSQL",
+        "React.js",
+        "Daisy UI",
+        "Judge0"
+      ],
+      "highlights": [
+        "Built a full-stack coding platform supporting real-time code execution, enhancing practice efficiency by 30%.",
+        "Implemented JWT-based authentication with role-based access control, reducing unauthorized access incidents by 40%.",
+        "Used React for frontend, Express.js for backend, and PostgreSQL for efficient database management and scalability."
+      ]
+    },
+    {
+      "name": "Book Store – A MERN Stack Real-Time E-Commerce App",
+      "source_code": "https://github.com/srinjoy420/bookbackend",
+      "tech_stack": [
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "React.js",
+        "ShadCn UI"
+      ],
+      "highlights": [
+        "Developed a full-featured e-commerce backend with secure JWT authentication and role-based access.",
+        "Implemented OTP login via Twilio, email notifications using Mailgen, and automated OTP cleanup with cron jobs.",
+        "Handled image uploads with Multer and Cloudinary for product management.",
+        "Integrated Razorpay payment gateway and real-time order tracking, increasing payment success rate by 20%."
+      ]
+    }
+  ],
+  "technical_skills": {
+    "languages": ["JavaScript", "TypeScript"],
+    "frontend": ["React.js", "Next.js", "Redux", "Tailwind CSS", "ShadCn UI"],
+    "backend": ["Node.js", "Express.js", "REST APIs", "Postman", "Redis", "Socket.IO", "Docker"],
+    "databases": ["MongoDB", "PostgreSQL"],
+    "tools": ["Git", "GitHub", "VS Code"]
+  },
+  "education": [
+    {
+      "degree": "B.Tech in Computer Science & Engineering",
+      "institution": "Camellia Institute of Technology & Management, Bainchi",
+      "duration": "2023 – 2026",
+      "cgpa": "7.5 (up to 7th Semester)"
+    },
+    {
+      "degree": "Diploma in Computer Science & Technology",
+      "institution": "Technique Polytechnic Institute, Hooghly",
+      "duration": "2021 – 2023",
+      "percentage": "83.03%"
+    }
+  ]
+}
